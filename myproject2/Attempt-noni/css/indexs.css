@@ -1,0 +1,9 @@
+html,body { 
+	background-color: black;
+}
+
+#callout {
+	width: 100%;
+	background-color:black;
+	height: 8vh;
+}
